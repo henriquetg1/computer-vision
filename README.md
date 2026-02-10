@@ -106,7 +106,7 @@ git lfs install
 </details>
 
 <details>
-<summary><b>macOS (without Homebrew - Apple Silicon M1/M2/M3)</b></summary>
+<summary><b>macOS (without Homebrew - Apple Silicon M1/M2/M3/M4/M5)</b></summary>
 
 ```bash
 # Download and install
