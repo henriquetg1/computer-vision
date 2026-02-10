@@ -163,7 +163,7 @@ You should see something like: `git-lfs/3.4.1`
 ### Step 3: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/computer-vision.git
+git clone https://github.com/mjck/computer-vision.git
 cd computer-vision
 ```
 
